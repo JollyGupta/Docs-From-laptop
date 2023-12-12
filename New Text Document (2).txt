@@ -1,1 +1,18 @@
-Dedicated educator with a focus on Data Analysis, imparting comprehensive knowledge in SQL, Power BI, Statistics, and Excel to engineering college students. Skilled in creating engaging learning experiences and fostering analytical thinking, preparing future engineers with practical data-driven skills for a competitive industry landscape.
+C:\Users\hp\Documents\SQL Server Management Studio
+Version: 2.107.841.0 64-bit (July 2022)
+Version: 2.118.621.0 64-bit (June 2023)
+https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
+
+
+Microsoft SQL Server 2022 (RTM) - 16.0.1000.6 (X64)   Oct  8 2022 05:58:25   Copyright (C) 2022 Microsoft Corporation  Express Edition (64-bit) on Windows 10 Pro 10.0 <X64> (Build 19045: ) 
+
+Correct Answer:
+
+CREATE TABLE orders ( order_id INT PRIMARY KEY, order_date DATE, customer_id INT, FOREIGN KEY (customer_id) REFERENCES customers(customer_id) );
+
+SELECT *
+FROM customers
+WHERE customer_id IN (
+      SELECT customer_id
+      FROM orders
+      WHERE order_value >1000);

@@ -1,0 +1,31 @@
+
+For your reference, my CV is included in this email 
+It’s love when you do it. All the time.
+
+https://csharp-video-tutorials.blogspot.com/2012/08/creating-and-working-with-tables-part-3.html
+
+INSERT INTO EmpAccnt  (EmpID ,EmpName ,Dept ,JoinYear,Salary )
+values
+(1, 'A', 'Accnt','2001-01-11', 60000),(2, 'P', 'Accnt','2001-01-11', 45000),(3, 'H', 'Accnt','2001-01-11', 70000),(4, 'H', 'Accnt','2001-01-11', 45000);
+
+drop table if exists tblEmployee4;
+
+--SQL Script to create tblEmployee and tblDepartment tables
+
+Create table tblEmployee4
+(
+     Id int primary key,
+     Name1 nvarchar(50),
+     gender nvarchar(50),
+	 departmentid int
+)
+Go
+
+Insert into tblEmployee4 values (1, 'mike', 'M',1 )
+Insert into tblEmployee4 values (2, 'hike', 'f',1 )
+Insert into tblEmployee4 values (3, 'aike', 'M',3)
+Insert into tblEmployee4 values (4, 'bike', 'f',2 )
+Insert into tblEmployee4 values (5, 'cike', 'M',3 )
+Insert into tblEmployee4 values (6, 'dike', 'f',2 )
+Insert into tblEmployee4 values (7, 'eike', 'M',1 )
+Insert into tblEmployee4 values (8, 'fike', 'f',2 )
