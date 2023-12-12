@@ -1,13 +1,48 @@
-Funnel visualization?A/B Testing?
+https://www.youtube.com/watch?v=obJZ1rB7TKc end to end project
+
+instagram.com"delhi""doctor""@gmail.com" tool
+https://www.youtube.com/watch?v=XyNMNj78uJk
 
 
-https://www.youtube.com/watch?v=mBYu5NoXBcs&t=254s&pp=ygUScHJvbXB0IGVuZ2luZWVyaW5n
-https://www.youtube.com/watch?v=7tlJRhEu8Bc
+https://www.youtube.com/watch?v=cbgrU1Ih0PQ
+intext:gmail.com "HR" bangalore
+
+Write Executable Simple SQL Queries to Complex Queries  Unique Best Project financial project with complete Table in SQL Code for  SQL Server Management System 
+programmng 
+text = 'My email is example@gmail.com, please contact me.'
+
+# Find email addresses using regex
+email_regex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b'
+email_matches = re.findall(email_regex, text)
+
+# Print the extracted email addresses
+for email in email_matches:
+    print(email)
 
 
-Hello all, I have successfully completed the “Data Visualization With Power BI” course offered by Great Learning Academy. Great Learning 
-Jolly 
 
-#greatlearning #greatlearningacademy #datavisualization #powerbi #learning #connections #opentowork #opportunities #internship #dataanalytics
+
+Data Cleaning,Advanced Pivot Table Tricks (Data Analysis & Visualization),
+Forecasting 
+Restarting My Career in Data Analytics 
+POWER BI
+
+"Reinvigorating My Data Analytics Career: Harnessing Past Experience (CV Attached)"
+
+PYTHON LIBRARIES
+NUMPY               Basic Learnings, Arrays Calculations
+PANDAS              Read CSV & JSON, Data cleansing, Data fill, Data normalization, 
+                             Merges and joins, Data inspection, Loading and saving data   
+ MATPLOTLIB      Comprehensive library for creating static, animated, and interactive     
+                             visualizations in Python
+ SEABORN           Visualization of univariate and bivariate data, extended version of 
+                             Matplotlib, which uses Matplotlib, NumPy, and Pandas to plot graphs
+                             
+   SQL            
+
+  
+                                      
+     
+
 
 
